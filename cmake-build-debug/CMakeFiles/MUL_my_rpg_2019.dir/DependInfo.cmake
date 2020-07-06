@@ -1,0 +1,96 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/add_to_menus.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/add_to_menus.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/boss.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/boss.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/boss_collider.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/boss_collider.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/boss_fight.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/boss_fight.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/change.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/change.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/change_map.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/change_map.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/chat_box.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/chat_box.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/check_collisions.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/check_collisions.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/check_link.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/check_link.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/choice_animation.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/choice_animation.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/create.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/create.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/destroy.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/destroy.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/display_inventory.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/display_inventory.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/do_libs.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/do_libs.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/draw.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/draw.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/enemy_controller.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/enemy_controller.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/enemy_init.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/enemy_init.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/enemy_move.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/enemy_move.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/enemy_spawn.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/enemy_spawn.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/enemy_textures.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/enemy_textures.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/event.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/event.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/game_over.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/game_over.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/gameloop.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/gameloop.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/gender.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/gender.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/gender_init.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/gender_init.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/get_player_funcs.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/get_player_funcs.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/get_seconds.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/get_seconds.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/hud.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/hud.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/hud_destroy.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/hud_destroy.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/hud_init.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/hud_init.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/hud_init_two.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/hud_init_two.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/init_boss.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/init_boss.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/init_change_map.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/init_change_map.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/init_collisions.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/init_collisions.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/init_inv.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/init_inv.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/init_items.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/init_items.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/init_links.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/init_links.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/init_player.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/init_player.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/intro.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/intro.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/intro_get_input.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/intro_get_input.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/intro_move.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/intro_move.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/inventory.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/inventory.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/item_collidor.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/item_collidor.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/item_collidor_next.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/item_collidor_next.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/lib_func.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/lib_func.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/load_game.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/load_game.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/main.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/main.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/menus.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/menus.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/music.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/music.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/music_next.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/music_next.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/my_strdup.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/my_strdup.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/new_word_array.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/new_word_array.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/npc_quest_text.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/npc_quest_text.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/npcs.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/npcs.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/player.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/player.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/projectile.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/projectile.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/projectile_collider.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/projectile_collider.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/projectile_controller.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/projectile_controller.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/projectile_init.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/projectile_init.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/projectile_map_collider.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/projectile_map_collider.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/projectile_types.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/projectile_types.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/random.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/random.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/save_game.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/save_game.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/settings.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/settings.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_destroy.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/settings_destroy.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_fps.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/settings_fps.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_init.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/settings_init.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_init_strings.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/settings_init_strings.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_keymap.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/settings_keymap.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_music_sound.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/settings_music_sound.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_next.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/settings_next.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_num_to_string.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/settings_num_to_string.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/stone.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/stone.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/text.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/text.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/trigger_evolution.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/trigger_evolution.c.o"
+  "/home/Niffi/MUL/MUL_my_rpg_2019/src/win_screen.c" "/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/CMakeFiles/MUL_my_rpg_2019.dir/src/win_screen.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../include"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

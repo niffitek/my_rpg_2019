@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MUL_my_rpg_2019"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MUL_my_rpg_2019">
+				<Option output="/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/MUL_my_rpg_2019" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/Niffi/MUL/MUL_my_rpg_2019/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 MUL_my_rpg_2019"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MUL_my_rpg_2019/fast">
+				<Option output="/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/MUL_my_rpg_2019" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/Niffi/MUL/MUL_my_rpg_2019/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 MUL_my_rpg_2019/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/Niffi/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/add_to_menus.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/boss.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/boss_collider.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/boss_fight.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/change.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/change_map.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/chat_box.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/check_collisions.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/check_link.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/choice_animation.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/create.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/destroy.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/display_inventory.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/do_libs.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/draw.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/enemy_controller.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/enemy_init.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/enemy_move.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/enemy_spawn.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/enemy_textures.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/event.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/game_over.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/gameloop.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/gender.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/gender_init.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/get_player_funcs.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/get_seconds.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/hud.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/hud_destroy.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/hud_init.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/hud_init_two.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/init_boss.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/init_change_map.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/init_collisions.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/init_inv.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/init_items.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/init_links.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/init_player.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/intro.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/intro_get_input.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/intro_move.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/inventory.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/item_collidor.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/item_collidor_next.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/lib_func.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/load_game.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/main.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/menus.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/music.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/music_next.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/my_strdup.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/new_word_array.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/npc_quest_text.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/npcs.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/player.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/projectile.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/projectile_collider.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/projectile_controller.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/projectile_init.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/projectile_map_collider.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/projectile_types.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/random.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/save_game.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/settings.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_destroy.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_fps.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_init.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_init_strings.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_keymap.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_music_sound.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_next.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/settings_num_to_string.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/stone.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/text.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/trigger_evolution.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/src/win_screen.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/Niffi/MUL/MUL_my_rpg_2019/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
